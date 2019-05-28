@@ -1,6 +1,6 @@
 # ICC 2019 WC prediction
 
-![WC Logo](https://www.google.com/search?q=icc+world+cup+2019+logo+jpg&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi__5CW6r3iAhVK4nMBHcEtBDQQ_AUIDigB&biw=1366&bih=608#imgrc=pk-jKW2bsQ_Y8M:)
+![WC Logo](algorithms.jpg)
 
 I used Machine Learning to make a model using scikit-learn, pandas, numpy, seaborn and matplotlib to predict the results of ICC 2019 Cricket World Cup.
 
