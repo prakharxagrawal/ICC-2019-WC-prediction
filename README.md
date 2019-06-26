@@ -32,17 +32,13 @@ I used data sets from Kaggle - Results of the matches since 1975 and 2017. I did
 
 I used the ICC ranking as of MAY 2019 dataset and a dataset containing the fixture of the group stages of the tournament. I compared Support Vector Machines, Logistic Regression, Random Forest and K-Nearest Neighbours model. Random Forest was the winner with a training accuracy of 70 % and test accuracy of 67.5%.
 
-![SVM](svm.png)
-Support Vector Machines
+![SVM](svm.png) Support Vector Machines
 
-![LR](lr.png)
-Logistic Regression
+![LR](lr.png) Logistic Regression
 
-![RF](rf.png)
-Random Forest
+![RF](rf.png) Random Forest
 
-![KNN](knn.png)
-K-Nearest Neighbours
+![KNN](knn.png) K-Nearest Neighbours
 
 ### According to this model England is likely to win this World Cup.
 
