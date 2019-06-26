@@ -34,20 +34,20 @@ I used the ICC ranking as of MAY 2019 dataset and a dataset containing the fixtu
 
 ![SVM](svm.png)
 
-      Support Vector Machines
+        Support Vector Machines
 
 ![LR](lr.png)
 
-Logistic Regression
+        Logistic Regression
 
 
 ![RF](rf.png)
 
-Random Forest
+        Random Forest
 
 ![KNN](knn.png)
 
-K-Nearest Neighbours
+        K-Nearest Neighbours
 
 ### According to this model England is likely to win this World Cup.
 
