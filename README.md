@@ -34,7 +34,7 @@ I used the ICC ranking as of MAY 2019 dataset and a dataset containing the fixtu
 
 ![SVM](svm.png)
 
-Support Vector Machines
+      Support Vector Machines
 
 ![LR](lr.png)
 
