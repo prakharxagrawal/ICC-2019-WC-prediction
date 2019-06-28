@@ -59,4 +59,6 @@ I used the ICC ranking as of MAY 2019 dataset and a dataset containing the fixtu
 
 3. We could ensemble that is we could try stacking more models together to improve the accuracy.
 
+## Would you like to support me?
+
 <a href="https://www.buymeacoffee.com/abhinavsagar" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
