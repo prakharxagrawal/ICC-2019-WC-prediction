@@ -62,5 +62,3 @@ I used the ICC ranking as of MAY 2019 dataset and a dataset containing the fixtu
 ## Would you like to support me?
 
 <a href="https://www.buymeacoffee.com/abhinavsagar" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-<script src="https://infograph.venngage.com/js/embed/v1/embed.js" data-vg-id="ebT3NtB5ehw" data-title="abhinav" data-w="816" data-h="400" data-multipage="true"></script>
