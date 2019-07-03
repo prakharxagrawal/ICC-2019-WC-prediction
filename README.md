@@ -30,10 +30,6 @@ I used data sets from Kaggle - Results of the matches since 1975 and 2017. I did
 5. Matplotlib
 6. Scikit-learn
 
-## Citing
-
-If you find this repository useful, please consider citing it using a link to the repo :)
-
 I used the ICC ranking as of MAY 2019 dataset and a dataset containing the fixture of the group stages of the tournament. I compared Support Vector Machines, Logistic Regression, Random Forest and K-Nearest Neighbours model.
 
 ![SVM](svm.png)
@@ -64,6 +60,10 @@ Random Forest was the winner with a training accuracy of 70 % and test accuracy 
 2. A confusion matrix would be great to analyse which games the model got wrong.
 
 3. We could ensemble that is we could try stacking more models together to improve the accuracy.
+
+## Citing
+
+If you find this repository useful, please consider citing it using a link to the repo :)
 
 ## Would you like to support me?
 
