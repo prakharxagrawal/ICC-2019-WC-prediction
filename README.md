@@ -63,14 +63,16 @@ Random Forest was the winner with a training accuracy of 70 % and test accuracy 
 
 ## Citing
 
-`@misc{Abhinav:2019,
+```
+@misc{Abhinav:2019,
   Author = {Abhinav Sagar},
   Title = {ICC 2019 WC Prediction},
   Year = {2019},
   Publisher = {GitHub},
   Journal = {GitHub repository},
   Howpublished = {\url{https://github.com/abhinavsagar/ICC-2019-WC-prediction}}
-}`
+}
+```
 
 ## Would you like to support me?
 
