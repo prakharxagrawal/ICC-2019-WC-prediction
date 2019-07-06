@@ -36,6 +36,8 @@ Random Forest was the winner with a training accuracy of 70 % and test accuracy 
 
 ## Installation
 
+`pip install -r requirements.txt`
+
 `jupyter notebook`
 
 ### According to this model England is likely to win this World Cup.
