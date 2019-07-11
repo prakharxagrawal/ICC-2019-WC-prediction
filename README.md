@@ -62,7 +62,3 @@ Random Forest was the winner with a training accuracy of 70 % and test accuracy 
   Howpublished = {\url{https://github.com/abhinavsagar/ICC-2019-WC-prediction}}
 }
 ```
-
-## Would you like to support me?
-
-<a href="https://www.buymeacoffee.com/abhinavsagar" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
