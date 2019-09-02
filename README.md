@@ -5,7 +5,7 @@
 I used Machine Learning to make a model using scikit-learn, pandas, numpy, seaborn and matplotlib to predict the results of ICC 2019 
 Cricket World Cup. 
 
-Check out the corresponding medium blog post [ICC 2019 cricket world cup prediction using machine learning](https://medium.com/@abhinav.sagar/icc-2019-cricket-world-cup-prediction-using-machine-learning-7c42d848ace1).
+Check out the corresponding medium blog post [https://towardsdatascience.com/icc-2019-cricket-world-cup-prediction-using-machine-learning-7c42d848ace1](https://towardsdatascience.com/icc-2019-cricket-world-cup-prediction-using-machine-learning-7c42d848ace1).
 
 ## Goals
 
