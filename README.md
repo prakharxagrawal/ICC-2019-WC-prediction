@@ -2,6 +2,8 @@
 
 ![WC Logo](wc.png)
 
+## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
+
 I used Machine Learning to make a model using scikit-learn, pandas, numpy, seaborn and matplotlib to predict the results of ICC 2019 
 Cricket World Cup. 
 
