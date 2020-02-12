@@ -56,7 +56,7 @@ Random Forest was the winner with a training accuracy of 70 % and test accuracy 
 
 ## References
 
-1. Prediction of the FIFA World Cup 2018 - A random forest approach with an emphasis on estimated team ability parameters
+1. https://arxiv.org/abs/1806.03208
 
 ## Citing
 
