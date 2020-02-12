@@ -1,6 +1,6 @@
 # ICC 2019 WC prediction
 
-Unofficial code for paper "Prediction of the FIFA World Cup 2018 - A random forest approach with an emphasis on estimated team ability parameters"
+Unofficial code for paper "Prediction of the FIFA World Cup 2018 - A random forest approach with an emphasis on estimated team ability parameters" applied to cricket
 
 ![WC Logo](wc.png)
 
