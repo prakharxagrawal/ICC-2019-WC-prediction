@@ -1,5 +1,7 @@
 # ICC 2019 WC prediction
 
+Unofficial code for paper "Prediction of the FIFA World Cup 2018 - A random forest approach with an emphasis on estimated team ability parameters"
+
 ![WC Logo](wc.png)
 
 ## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
@@ -51,6 +53,10 @@ Random Forest was the winner with a training accuracy of 70 % and test accuracy 
 2. A confusion matrix would be great to analyse which games the model got wrong.
 
 3. We could ensemble that is we could try stacking more models together to improve the accuracy.
+
+## References
+
+1. Prediction of the FIFA World Cup 2018 - A random forest approach with an emphasis on estimated team ability parameters
 
 ## Citing
 
