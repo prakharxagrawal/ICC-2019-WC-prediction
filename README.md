@@ -1,6 +1,6 @@
 # ICC 2019 WC prediction
 
-Unofficial code for paper "Prediction of the FIFA World Cup 2018 - A random forest approach with an emphasis on estimated team ability parameters" applied to cricket
+Predicting the winner of 2019 cricket world cup using random forest
 
 ![WC Logo](wc.png)
 
