@@ -1,6 +1,6 @@
 # ICC 2019 WC prediction
 
-Predicting the winner of 2019 cricket world cup using random forest
+Predicting the winner of 2019 cricket world cup using random forest algorithm
 
 ![WC Logo](wc.png)
 
