@@ -2,6 +2,19 @@
 
 Predicting the winner of 2019 cricket world cup using random forest algorithm
 
+## Citing
+
+If you find this code useful in your research, please consider citing the blog:
+
+```
+@misc{sagaricc,
+  Author = {Abhinav Sagar},
+  Title = {ICC 2019 Cricket World Cup Prediction using Machine Learning},
+  Year = {2019},
+  Journal = {Towards Data Science},
+}
+```
+
 ![WC Logo](wc.png)
 
 I used Machine Learning to make a model using scikit-learn, pandas, numpy, seaborn and matplotlib to predict the results of ICC 2019 
@@ -55,19 +68,6 @@ Random Forest was the winner with a training accuracy of 70 % and test accuracy 
 ## References
 
 1. https://arxiv.org/abs/1806.03208
-
-## Citing
-
-If you find this code useful in your research, please consider citing the blog:
-
-```
-@misc{sagaricc,
-  Author = {Abhinav Sagar},
-  Title = {ICC 2019 Cricket World Cup Prediction using Machine Learning},
-  Year = {2019},
-  Journal = {Towards Data Science},
-}
-```
 
 ## License
 
